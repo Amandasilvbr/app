@@ -8,5 +8,7 @@
     2-Entendendo e criando components;
     3-Deixando os components reutilizáveis com as "props";
     4-Exercício: criando um componente e utilizando "props";
+    5-Adicionando eventos;
+    6-Renderização condicional;
  
 🌱 Esse projeto está sujeito a melhorias. Sugestões e opiniões sobre o código são sempre bem-vindas!
